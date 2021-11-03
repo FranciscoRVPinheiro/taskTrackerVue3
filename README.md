@@ -1,3 +1,3 @@
-App made while practicing Vue 3 and and git.
+App made while learning/practicing Vue 3;
 
 Available here: https://basictasktrackervue3.netlify.app/
